@@ -35,9 +35,7 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 - ⚡ Fun fact: <b>I ❤️ S</b>
 
 ## Languages and Tools : 
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Hi.gif">
-<code><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/github.png"></code>
-<code><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg"></code>
+<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Hi.gif"> <img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/github.png"> <img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg">
 <code><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/python.png"></code>
 <code><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/toppng.com-kali-linux-logo-646x523.png"></code>
 <code><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/youtube.png"></code>
