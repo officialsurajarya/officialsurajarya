@@ -35,7 +35,14 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 - ⚡ Fun fact: <b>I ❤️ S</b>
 
 ## Languages and Tools : 
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Hi.gif"> <img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/github.png"> <img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg"><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/python.png"><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/toppng.com-kali-linux-logo-646x523.png"><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/youtube.png"><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/photoshop.png">
+
+<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Hi.gif"> 
+<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg">
+<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/python.png">
+<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/toppng.com-kali-linux-logo-646x523.png">
+<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/youtube.png">
+<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/github.png"> 
+<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/photoshop.png">
 <img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/php-programming-language.png">
 <img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/mysql.png">
 <img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/java-script.png">
