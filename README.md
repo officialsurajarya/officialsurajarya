@@ -11,7 +11,7 @@
 
 
 ### Hi I'm Suraj <img src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/LOGO.jpg" width="20">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 I am currently pursuing a Diploma in Computer Science and Engineering (CSE) at Ambekeshwar Institute of Technology and Management, Lucknow, with plans to pursue a B.Tech degree in the future. I am passionate about technology, graphic design, and event management.
 
 I have experience in programming languages like C, Java, HTML, CSS, and Python, and I enjoy using tools like Adobe Photoshop for graphic design. My hobbies include photography, gaming, volleyball, and creative projects.
