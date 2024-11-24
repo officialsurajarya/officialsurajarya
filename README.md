@@ -10,7 +10,7 @@
 <!--/*[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)(https://forthebadge.com)*/ -->
 
 
-### Hi I'm Suraj <img src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/LOGO.jpg" width="20">
+### Hi I'm Suraj <img src="[https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/LOGO.jpg](https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Hi.gif)" width="20">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 I am currently pursuing a Diploma in Computer Science and Engineering (CSE) at Ambekeshwar Institute of Technology and Management, Lucknow, with plans to pursue a B.Tech degree in the future. I am passionate about technology, graphic design, and event management.
 
