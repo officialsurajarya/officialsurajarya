@@ -36,20 +36,23 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 
 ## Languages and Tools : 
 
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Hi.gif"> 
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg">
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/python.png">
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/toppng.com-kali-linux-logo-646x523.png">
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/youtube.png">
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/github.png"> 
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/photoshop.png">
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/php-programming-language.png">
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/mysql.png">
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/java-script.png">
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/html-5-logo.png">
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/gmail.png">
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/chrome.png">
-<img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Earth.gif">
+<table>
+    <tr>
+        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/github.png"></td>
+        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg"></td>
+        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/python.png"></td>
+        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/toppng.com-kali-linux-logo-646x523.png"></td>
+        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/youtube.png"></td>
+        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/photoshop.png"></td>
+        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/php-programming-language.png"></td>
+        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/mysql.png"></td>
+        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/java-script.png"></td>
+        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/html-5-logo.png"></td>
+        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/gmail.png"></td>
+        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/chrome.png"></td>
+        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Earth.gif"></td>
+    </tr>
+</table>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
 
