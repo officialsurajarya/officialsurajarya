@@ -24,7 +24,7 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=officialsurajarya&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
 
-### Pleased to meet you <img src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/LOGO.jpg" width="30px">
+### Pleased to meet you 
 
 - 🔭 I’m currently working on <b>Web Development</b>
 - 🌱 I’m currently learning <b>C</b>
@@ -34,7 +34,7 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 - 😄 Pronouns:<b>He/him</b>
 - ⚡ Fun fact: <b>I ❤️ S</b>
 
-## Languages and Tools : <img src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/LOGO.jpg" width="35px">
+## Languages and Tools : 
 <code><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Hi.gif"></code>
 <code><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/github.png"></code>
 <code><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg"></code>
