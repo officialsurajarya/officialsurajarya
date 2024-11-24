@@ -19,6 +19,7 @@ I have experience in programming languages like C, Java, HTML, CSS, and Python, 
 I have demonstrated leadership skills by successfully managing events and receiving awards such as the "Electron Award." I have also completed NCC training and National Level Physical Training, highlighting my discipline and teamwork abilities.
 
 Balancing studies, fitness, and creative interests, I am always eager to take on new challenges and grow both personally and professionally.
+
 [![Linkedin Badge](https://img.shields.io/badge/-SurajArya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-arya/)](https://www.linkedin.com/in/suraj-arya/)  [![MAIL Badge](https://img.shields.io/badge/-officialsurajarya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:officialsurajarya@gmail.com)](mailto:officialsurajarya@gmail.com)
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=officialsurajarya&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
 
