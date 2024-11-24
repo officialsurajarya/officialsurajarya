@@ -65,4 +65,4 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 - Sharing updates on <a href="https://www.linkedin.com/in/suraj-arya/">LinkedIn</a> 💼
 - My Social Life <a href="https://www.instagram.com/officialsurajarya">Instagram</a> 💞
 
-<img src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/LOGO.jpg" width="39px">  *<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! :)</b>*
+*<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! :)</b>*
