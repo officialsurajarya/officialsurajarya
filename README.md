@@ -39,7 +39,6 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 
 <table>
     <tr>
-        <td><img height="30" src="Assests/Java.png"></td>
         <td><img height="30" src="Assests/Kali.png"></td>
         <td><img height="30" src="Assests/Microsoft.png"></td>
         <td><img height="30" src="Assests/Python.png"></td>
@@ -51,7 +50,6 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
         <td><img height="30" src="Assests/photoshop.png"></td>
         <td><img height="30" src="Assests/Bootstrap.png"></td>
         <td><img height="30" src="Assests/CSS.png"></td>
-        <td><img height="30" src="Assests/DataBase.png"></td>
         <td><img height="30" src="Assests/Drive.png"></td>
         <td><img height="30" src="Assests/Firefox.png"></td>
         <td><img height="30" src="Assests/Git.png"></td>
