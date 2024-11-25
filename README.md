@@ -36,26 +36,27 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 
 ## Languages and Tools : 
 
+
 <table>
     <tr>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Java.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Kali.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Microsoft.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Python.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/VS%20Code.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Wiki.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Win.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Youtube.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/pHP.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/photoshop.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Bootstrap.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/CSS.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/DataBase.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Drive.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Firefox.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Git.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Google.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/HTML.png"></td>
+        <td><img height="30" src="Assests/Java.png"></td>
+        <td><img height="30" src="Assests/Kali.png"></td>
+        <td><img height="30" src="Assests/Microsoft.png"></td>
+        <td><img height="30" src="Assests/Python.png"></td>
+        <td><img height="30" src="Assests/VS%20Code.png"></td>
+        <td><img height="30" src="Assests/Wiki.png"></td>
+        <td><img height="30" src="Assests/Win.png"></td>
+        <td><img height="30" src="Assests/Youtube.png"></td>
+        <td><img height="30" src="Assests/pHP.png"></td>
+        <td><img height="30" src="Assests/photoshop.png"></td>
+        <td><img height="30" src="Assests/Bootstrap.png"></td>
+        <td><img height="30" src="Assests/CSS.png"></td>
+        <td><img height="30" src="Assests/DataBase.png"></td>
+        <td><img height="30" src="Assests/Drive.png"></td>
+        <td><img height="30" src="Assests/Firefox.png"></td>
+        <td><img height="30" src="Assests/Git.png"></td>
+        <td><img height="30" src="Assests/Google.png"></td>
+        <td><img height="30" src="Assests/HTML.png"></td>
     </tr>
 </table>
 
