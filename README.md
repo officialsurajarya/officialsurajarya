@@ -10,7 +10,7 @@
 <!--/*[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)(https://forthebadge.com)*/ -->
 
 
-### Hi I'm Suraj <img src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Hi.gif" width="20">
+### Hi I'm Suraj <img src="Assests/Hi.gif" width="20">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 I am currently pursuing a Diploma in Computer Science and Engineering (CSE) at Ambekeshwar Institute of Technology and Management, Lucknow, with plans to pursue a B.Tech degree in the future. I am passionate about technology, graphic design, and event management.
 
@@ -61,10 +61,10 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
 
-![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=officialsurajarya&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialsurajarya&theme=radical)](https://github.com/officialsurajarya/github-readme-stats)
+![Suraj's Github Stats](https://github-readme-stats.vercel.app/api?username=officialsurajarya&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialsurajarya&theme=radical)](https://github.com/officialsurajarya/github-readme-stats)
 
 
-## Find me around the web <img src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Earth.gif" width="24"> :
+## Find me around the web <img src="Assests/Earth.gif" width="24"> :
 - Practicing Coding Skills in <a href="https://leetcode.com/u/officialsurajarya/">Leet Code.</a> 
 - Personal Website <a href="https://officialsurajarya.github.io/">Suraj Arya</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/suraj-arya/">LinkedIn</a> 💼
