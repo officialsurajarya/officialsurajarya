@@ -50,13 +50,11 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
         <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/photoshop.png"></td>
         <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Bootstrap.png"></td>
         <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/CSS.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/ChatGPT.png"></td>
         <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/DataBase.png"></td>
         <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Drive.png"></td>
         <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Earth.gif"></td>
         <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Firefox.png"></td>
         <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Git.png"></td>
-        <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/GitHub.png"></td>
         <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Google.png"></td>
         <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/HTML.png"></td>
         <td><img height="30" src="https://github.com/officialsurajarya/officialsurajarya.github.io/blob/main/Assests/Hi.gif"></td>
