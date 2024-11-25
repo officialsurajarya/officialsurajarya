@@ -1,0 +1,52 @@
+------------------------------------------------------------------------
+C code Run
+
+gcc hello.c
+./a.exe
+
+---------------------------------------------------------------
+
+sudo su
+apt-get install bluetooth 
+/etc/init.d/bluetooth status
+/etc/init.d/bluetooth start
+------------------------------------------------------------------
+
+sudo dpkg -i file_name
+---------------------------------------------------
+
+for tar.gz
+tar xvzf file_name
+-------------------------------------------------
+
+
+sudo apt install kali-desktop-gnome -y
+-----------------------------------------------------------
+
+yt video download
+sudo apt install yt-dlp
+sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+sudo chmod a+rx /usr/local/bin/yt-dlp
+
+For Windows Send Environment Variable 
+
+yt-dlp -U
+yt-dlp <video_url>
+
+audio
+yt-dlp -x --audio-format mp3 <url>
+-----------------------------------------------------
+
+winget list
+
+window app update
+
+winget update --all
+winget upgrade --all
+
+---------------------------------------------------------
+
+shutdown -s //shutdown    -r //restart     -l //lock
+shutdown /s /t 50 /c " i am going to sleep now"
+
+--------------------------------------------------------------------
