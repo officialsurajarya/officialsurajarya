@@ -35,24 +35,7 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 - ⚡ Fun fact: <b>I ❤️ S</b>
 
 ## Languages and Tools : 
-
-
-<img height="30" src="Assests/Kali.png">
-<img height="30" src="Assests/Microsoft.png">
-<img height="30" src="Assests/Python.png">
-<img height="30" src="Assests/VS%20Code.png">
-<img height="30" src="Assests/Wiki.png">
-<img height="30" src="Assests/Win.png">
-<img height="30" src="Assests/Youtube.png">
-<img height="30" src="Assests/pHP.png">
-<img height="30" src="Assests/photoshop.png">
-<img height="30" src="Assests/Bootstrap.png">
-<img height="30" src="Assests/CSS.png">
-<img height="30" src="Assests/Drive.png">
-<img height="30" src="Assests/Firefox.png">
-<img height="30" src="Assests/Git.png">
-<img height="30" src="Assests/Google.png">
-<img height="30" src="Assests/HTML.png">
+ <img height="30" src="Assests/Kali.png"> <img height="30" src="Assests/Microsoft.png"> <img height="30" src="Assests/Python.png"> <img height="30" src="Assests/VS%20Code.png"> <img height="30" src="Assests/Wiki.png"> <img height="30" src="Assests/Win.png"> <img height="30" src="Assests/Youtube.png"> <img height="30" src="Assests/pHP.png"> <img height="30" src="Assests/photoshop.png"> <img height="30" src="Assests/Bootstrap.png"> <img height="30" src="Assests/CSS.png"> <img height="30" src="Assests/Drive.png"> <img height="30" src="Assests/Firefox.png"> <img height="30" src="Assests/Git.png"> <img height="30" src="Assests/Google.png"> <img height="30" src="Assests/HTML.png">
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
 
