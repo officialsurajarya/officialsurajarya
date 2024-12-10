@@ -39,7 +39,7 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
 
-![Suraj's Github Stats](https://github-readme-stats.vercel.app/api?username=officialsurajarya&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialsurajarya&theme=radical)](https://github.com/officialsurajarya/github-readme-stats)
+![Suraj's Github Stars](https://github-readme-stars.vercel.app/api?username=officialsurajarya&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stars.vercel.app/api/top-langs/?username=officialsurajarya&theme=radical)](https://github.com/officialsurajarya/github-readme-stars)
 
 
 ## Find me around the web <img src="Assests/Earth.gif" width="24"> :
