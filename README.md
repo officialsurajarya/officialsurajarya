@@ -49,3 +49,4 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 - My Social Life <a href="https://www.instagram.com/officialsurajarya">Instagram</a> 💞
 
 *<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! :)</b>*
+
