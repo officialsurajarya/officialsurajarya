@@ -1,14 +1,20 @@
-<table><tr>  <td>You are visitor</td>
+<table align="center"><tr>  <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/officialsurajarya/count.svg" alt="vistor count" height="20"></td>
   </tr>
 </table>
 
-[![ForTheBadge built-with-love](https://madewithlove.now.sh/af?heart=true&template=for-the-badge&text=India)](https://github.com/officialsurajarya/) 
+<div align="center">
+  <a href="https://github.com/officialsurajarya/">
+    <img src="https://madewithlove.now.sh/af?heart=true&template=for-the-badge&text=India" alt="ForTheBadge built-with-love">
+  </a>
+</div>
+<br>
+
 
 <!--/*[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)(https://forthebadge.com)*/ -->
 
 
-### Hi I'm Suraj <img src="Assests/Hi.gif" width="20">
+# Hi I'm Suraj <img src="Assests/Hi.gif" width="20">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 I am currently pursuing a Diploma in Computer Science and Engineering (CSE) at Ambekeshwar Institute of Technology and Management, Lucknow, with plans to pursue a B.Tech degree in the future. I am passionate about technology, graphic design, and event management.
 
@@ -22,6 +28,15 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=officialsurajarya&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
 
+## Languages and Tools :
+ <img height="30" src="Assests/Kali.png"> <img height="30" src="Assests/Microsoft.png"> <img height="30" src="Assests/Python.png"> <img height="30" src="Assests/VS%20Code.png"> <img height="30" src="Assests/Wiki.png"> <img height="30" src="Assests/Win.png"> <img height="30" src="Assests/Youtube.png"> <img height="30" src="Assests/pHP.png"> <img height="30" src="Assests/photoshop.png"> <img height="30" src="Assests/Bootstrap.png"> <img height="30" src="Assests/CSS.png"> <img height="30" src="Assests/Drive.png"> <img height="30" src="Assests/Firefox.png"> <img height="30" src="Assests/Git.png"> <img height="30" src="Assests/Google.png"> <img height="30" src="Assests/HTML.png">
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
+
+<picture><img src="https://github-readme-stats.vercel.app/api?username=officialsurajarya&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialsurajarya&langs_count=8&layout=compact&theme=radical&hide_border=true" width=40.5% height=40.5%/></picture>
+
+<picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=officialsurajarya&theme=redical&hide_border=true" style="width: 890px;"/></picture>
+
 ### Pleased to meet you 
 
 - 🔭 I’m currently working on <b>Web Development</b>
@@ -31,14 +46,7 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 - 💬 Ask me about <b>Anything</b>
 - 😄 Pronouns:<b>He/him</b>
 - ⚡ Fun fact: <b>I ❤️ S</b>
-
-## Languages and Tools : 
- <img height="30" src="Assests/Kali.png"> <img height="30" src="Assests/Microsoft.png"> <img height="30" src="Assests/Python.png"> <img height="30" src="Assests/VS%20Code.png"> <img height="30" src="Assests/Wiki.png"> <img height="30" src="Assests/Win.png"> <img height="30" src="Assests/Youtube.png"> <img height="30" src="Assests/pHP.png"> <img height="30" src="Assests/photoshop.png"> <img height="30" src="Assests/Bootstrap.png"> <img height="30" src="Assests/CSS.png"> <img height="30" src="Assests/Drive.png"> <img height="30" src="Assests/Firefox.png"> <img height="30" src="Assests/Git.png"> <img height="30" src="Assests/Google.png"> <img height="30" src="Assests/HTML.png">
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
-
-![Suraj's Github Stats](https://github-readme-stats.vercel.app/api?username=officialsurajarya&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialsurajarya&theme=radical)](https://github.com/officialsurajarya/github-readme-stats)
-
+<br>
 
 ## Find me around the web <img src="Assests/Earth.gif" width="24"> :
 - Practicing Coding Skills in <a href="https://leetcode.com/u/officialsurajarya/">Leet Code.</a> 
