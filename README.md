@@ -8,11 +8,6 @@
     <img src="https://madewithlove.now.sh/af?heart=true&template=for-the-badge&text=India" alt="ForTheBadge built-with-love">
   </a>
 </div>
-<br>
-
-
-<!--/*[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)(https://forthebadge.com)*/ -->
-
 
 # Hi I'm Suraj <img src="Assests/Hi.gif" width="20">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
@@ -53,4 +48,3 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 - My Social Life <a href="https://www.instagram.com/officialsurajarya">Instagram</a> 💞
 
 *<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! :)</b>*
-
