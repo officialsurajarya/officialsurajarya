@@ -24,14 +24,12 @@ I have demonstrated leadership skills by successfully managing events and receiv
 
 Balancing studies, fitness, and creative interests, I am always eager to take on new challenges and grow both personally and professionally.
 
-[![Linkedin Badge](https://img.shields.io/badge/-SurajArya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-arya/)](https://www.linkedin.com/in/suraj-arya/)  [![MAIL Badge](https://img.shields.io/badge/-officialsurajarya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:officialsurajarya@gmail.com)](mailto:officialsurajarya@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Suraj%20Arya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-arya/)](https://www.linkedin.com/in/suraj-arya/)  [![MAIL Badge](https://img.shields.io/badge/-officialsurajarya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:officialsurajarya@gmail.com)](mailto:officialsurajarya@gmail.com)
+
+## Skills :
+ [![My Skills](https://skillicons.dev/icons?i=windows,kali,powershell,github,git,vscode,pycharm,idea,sublime,md,c,html,css,js,bootstrap,php,mysql,wordpress,py,java,arduino,ps,pr,blender,twitter,linkedin,instagram,ai,gmail,linux)](https://skillicons.dev)
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=officialsurajarya&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
-
-## Languages and Tools :
- <img height="30" src="Assests/Kali.png"> <img height="30" src="Assests/Microsoft.png"> <img height="30" src="Assests/Python.png"> <img height="30" src="Assests/VS%20Code.png"> <img height="30" src="Assests/Wiki.png"> <img height="30" src="Assests/Win.png"> <img height="30" src="Assests/Youtube.png"> <img height="30" src="Assests/pHP.png"> <img height="30" src="Assests/photoshop.png"> <img height="30" src="Assests/Bootstrap.png"> <img height="30" src="Assests/CSS.png"> <img height="30" src="Assests/Drive.png"> <img height="30" src="Assests/Firefox.png"> <img height="30" src="Assests/Git.png"> <img height="30" src="Assests/Google.png"> <img height="30" src="Assests/HTML.png">
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
 
 <picture><img src="https://github-readme-stats.vercel.app/api?username=officialsurajarya&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialsurajarya&langs_count=8&layout=compact&theme=radical&hide_border=true" width=40.5% height=40.5%/></picture>
 
