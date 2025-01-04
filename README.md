@@ -9,7 +9,7 @@
   </a>
 </div>
 
-# Hi I'm Suraj <img src="Assests/Hi.gif" width="20">
+# Hi I'm Suraj <img src="Hi.gif" width="20">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 I am currently pursuing a Diploma in Computer Science and Engineering (CSE) at Ambekeshwar Institute of Technology and Management, Lucknow, with plans to pursue a B.Tech degree in the future. I am passionate about technology, graphic design, and event management.
 
@@ -41,7 +41,7 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 - ⚡ Fun fact: <b>I ❤️ S</b>
 <br>
 
-## Find me around the web <img src="Assests/Earth.gif" width="24"> :
+## Find me around the web <img src="Earth.gif" width="24"> :
 - Practicing Coding Skills in <a href="https://leetcode.com/u/officialsurajarya/">Leet Code.</a> 
 - Personal Website <a href="https://officialsurajarya.github.io/">Suraj Arya</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/suraj-arya/">LinkedIn</a> 💼
