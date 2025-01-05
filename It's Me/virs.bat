@@ -1,0 +1,3 @@
+:loop
+start
+goto loop
