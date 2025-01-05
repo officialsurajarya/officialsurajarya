@@ -1,0 +1,13 @@
+CMD
+1.	curl ascii.live/forrest
+2.	curl ascii.live/rick
+3.	curl parrot.live
+4.	color a (enter) dir/s
+
+Loop
+@echo off
+:loop 
+start 
+start 
+I start
+goto loop
