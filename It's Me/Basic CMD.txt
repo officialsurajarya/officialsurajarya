@@ -40,6 +40,11 @@ For Windows Send Environment Variable
 yt-dlp -U
 yt-dlp <video_url>
 
+yt-dlp.exe -i -f 137+140 <1920x1080.mp4> 
+yt-dlp.exe -i -f 402+140 <hdr.60fps.3840x2160.mp4>
+
+Audio 
+
 audio
 yt-dlp -x --audio-format mp3 <url>
 -----------------------------------------------------
