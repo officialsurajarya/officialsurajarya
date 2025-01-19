@@ -46,5 +46,6 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 - Personal Website <a href="https://officialsurajarya.github.io/">Suraj Arya</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/suraj-arya/">LinkedIn</a> 💼
 - My Social Life <a href="https://www.instagram.com/officialsurajarya">Instagram</a> 💞
+- Telegram <a href="https://t.me/All_Latest_App">Telegram</a> 💞
 
 *<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! :)</b>*
