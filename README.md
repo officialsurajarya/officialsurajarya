@@ -35,7 +35,7 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 - 🔭 I’m currently working on <b>Web Development</b>
 - 🌱 I’m currently learning <b>C</b>
 - 👯 I’m looking to collaborate on <b>Projects on Python </b>
-- 🤔 I’m looking for help with <b>syn606</b>
+- 🤔 I’m looking for help with <b>Leet Code</b>
 - 💬 Ask me about <b>Anything</b>
 - 😄 Pronouns:<b>He/him</b>
 - ⚡ Fun fact: <b>I ❤️ S</b>
