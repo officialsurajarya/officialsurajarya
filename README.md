@@ -43,7 +43,7 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 
 ## Find me around the web <img src="Earth.gif" width="24"> :
 - Practicing Coding Skills in <a href="https://leetcode.com/u/officialsurajarya/">Leet Code.</a> 
-- Personal Website <a href="https://officialsurajarya.github.io/">Suraj Arya</a> 🏓
+- Personal Website <a href="https://officialsurajarya.vercel.app/">Suraj Arya</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/suraj-arya/">LinkedIn</a> 💼
 - My Social Life <a href="https://www.instagram.com/officialsurajarya">Instagram</a> 💞
 - Telegram <a href="https://t.me/All_Latest_App">Telegram</a> 💞
