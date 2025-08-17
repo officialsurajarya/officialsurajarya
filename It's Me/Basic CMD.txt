@@ -1,6 +1,8 @@
 Office Active CMD 
 Office 7 : GMG3P-FHGXW-VTQ94-4QW8F-VG2HM 
 
+On window Installation bypass internet Connection CMD
+OOBE\BYPAANRO
 
 Feel Like a Hacker
 CMD
@@ -66,3 +68,8 @@ shutdown -s //shutdown    -r //restart     -l //lock
 shutdown /s /t 50 /c " i am going to sleep now"
 
 --------------------------------------------------------------------
+
+Software Installation Website 
+1. Deep web nest
+2. FileCr
+3. Getintopc
