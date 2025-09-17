@@ -1,3 +1,7 @@
+npx @react-native-community/cli init newapp
+
+
+
 Office Active CMD 
 Office 7 : GMG3P-FHGXW-VTQ94-4QW8F-VG2HM 
 
