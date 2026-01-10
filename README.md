@@ -1,7 +1,7 @@
-<table align="center"><tr>  <td>You are visitor</td>
+<!-- <table align="center"><tr>  <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/officialsurajarya/count.svg" alt="vistor count" height="20"></td>
   </tr>
-</table>
+</table> -->
 
 <div align="center">
   <a href="https://github.com/officialsurajarya/">
@@ -24,11 +24,11 @@ Balancing studies, fitness, and creative interests, I am always eager to take on
 ## Skills :
  [![My Skills](https://skillicons.dev/icons?i=windows,kali,powershell,github,git,vscode,pycharm,idea,sublime,md,c,html,css,js,bootstrap,php,mysql,wordpress,py,java,arduino,ps,pr,blender,twitter,linkedin,instagram,ai,gmail,linux)](https://skillicons.dev)
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=officialsurajarya&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
+<!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=officialsurajarya&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
 
 <picture><img src="https://github-readme-stats.vercel.app/api?username=officialsurajarya&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialsurajarya&langs_count=8&layout=compact&theme=radical&hide_border=true" width=40.5% height=40.5%/></picture>
 
-<picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=officialsurajarya&theme=redical&hide_border=true" style="width: 890px;"/></picture>
+<picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=officialsurajarya&theme=redical&hide_border=true" style="width: 890px;"/></picture> -->
 
 ### Pleased to meet you 
 
