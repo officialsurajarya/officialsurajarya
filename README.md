@@ -24,8 +24,6 @@ By balancing studies, fitness, and creative pursuits, I continuously seek new ch
 
 ## 📊 GitHub Stats
 
-![Suraj Arya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialsurajarya&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=officialsurajarya&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=officialsurajarya&theme=radical)
 
 ---
