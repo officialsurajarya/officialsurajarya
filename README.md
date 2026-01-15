@@ -1,18 +1,28 @@
-# 👋 Hi, I’m **Suraj Arya**
-### 💻 Computer Science Engineering Student | Web Developer | Tech Enthusiast  
-📍 Bihar, India
+# 👋 Hi, I'm Suraj Arya
 
-I am a **Computer Science Engineering (CSE) student** passionate about **web development, programming, and building real-world solutions**.  
-I enjoy learning new technologies, contributing to projects, and continuously improving my problem-solving skills.
+### 💻 B.Tech CSE Student | Web Developer | Cybersecurity Enthusiast | Tech Educator
+
+🚀 Passionate about building real-world projects, learning emerging technologies, and empowering students through digital education.  
+🎯 Focused on **Web Development, Cybersecurity, AI Projects & Open Source**.
 
 ---
 
-## 🚀 About Me
+## 🔗 Quick Links
+🌐 Portfolio: https://officialsurajarya.vercel.app/  
+🐙 GitHub: https://github.com/officialsurajarya  
+📸 Instagram: https://www.instagram.com/officialsurajarya/  
+▶️ YouTube: https://www.youtube.com/@officialsurajarya  
+📧 Email: officialsurajarya@gmail.com  
+📍 Location: Bihar, India  
 
-- 🎓 CSE Student with a strong foundation in programming & software fundamentals  
-- 💻 Interested in **Web Development, Software Engineering & Open Source**  
-- 🌱 Currently learning **C, DSA, and modern web technologies**  
-- 🎯 Goal: Become a skilled **Software / Web Engineer**
+---
+
+## 🧑‍💻 About Me
+- 🎓 B.Tech in Computer Science & Engineering (BEU Board)
+- 🔐 Learning Ethical Hacking & Cybersecurity
+- 🧠 Strong interest in AI, OCR & Automation
+- 👨‍🏫 Conducted workshops & tech awareness sessions
+- 🌱 Always learning, building & sharing knowledge
 
 ---
 
@@ -21,85 +31,60 @@ I enjoy learning new technologies, contributing to projects, and continuously im
 ### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
 
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap)
-![PHP](https://img.shields.io/badge/PHP-indigo?style=flat&logo=php)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Flask](https://img.shields.io/badge/Flask-grey?style=flat&logo=flask)
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+![Google Colab](https://img.shields.io/badge/Colab-orange?style=flat&logo=googlecolab)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
+- 🔍 **Doctor Prescription OCR Reader** – Flask + OCR based medical text extractor  
+- 🧠 **Medicine Image Classification** – CNN based deep learning project  
+- ☀️ **Solar Power Quotation Generator** – Dynamic pricing & GST calculator  
+- 📚 **Arya Pathshala** – Educational platform for students  
+- 🌐 **Personal Portfolio Website** – SEO optimized developer portfolio  
 
-### 🔹 Personal Portfolio Website
-- 🌐 A modern personal portfolio showcasing skills & projects  
-- 🛠 Tech: HTML, CSS, JavaScript  
-- 🔗 Live: https://officialsurajarya.vercel.app/
-
-### 🔹 Academic & Practice Repositories
-- 📚 Programming practice, C & Python basics, web projects  
-- 🛠 Tech: C, Python, HTML, CSS, JavaScript  
-- 🔗 GitHub: https://github.com/officialsurajarya
+👉 More projects available on my GitHub repositories.
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialsurajarya&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialsurajarya&layout=compact&theme=radical&hide_border=true" width="40%"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialsurajarya&theme=radical&hide_border=true"/>
-</p>
+![Suraj Arya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialsurajarya&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=officialsurajarya&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=officialsurajarya&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=officialsurajarya&theme=onedark&no-frame=true&row=1&column=6"/>
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=officialsurajarya&theme=onedark&margin-w=10)
 
 ---
 
-## 🌍 Connect With Me
+## 🤝 Connect With Me
+Let’s collaborate, learn, and grow together 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj%20Arya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suraj-arya/)
-[![Instagram](https://img.shields.io/badge/Instagram-officialsurajarya-pink?style=flat&logo=instagram)](https://www.instagram.com/officialsurajarya)
-[![Email](https://img.shields.io/badge/Gmail-officialsurajarya@gmail.com-red?style=flat&logo=gmail)](mailto:officialsurajarya@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=vercel)](https://officialsurajarya.vercel.app/)
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/officialsurajarya/count.svg" alt="Profile Views"/>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/officialsurajarya/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/@officialsurajarya)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/officialsurajarya)
 
 ---
 
-## 🔎 SEO Keywords
-
-Suraj Arya GitHub • Suraj Arya Developer • CSE Student Bihar •  
-Web Developer India • Computer Science Engineering • officialsurajarya
+👀 **Profile Views**
+![Visitor Count](https://komarev.com/ghpvc/?username=officialsurajarya&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
-⭐ *If you find my work useful, consider giving a star and connecting with me!*  
-🤝 *Always open to collaboration, learning, and new opportunities.*
+⭐ *If you like my work, consider giving a star to my repositories!*  
+🔥 *Building • Learning • Teaching • Growing*
