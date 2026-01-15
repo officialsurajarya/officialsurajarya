@@ -1,86 +1,79 @@
-# 👋 Hi, I'm Suraj Arya
+<div align="center">
+  <a href="https://github.com/officialsurajarya/">
+    <img src="https://madewithlove.now.sh/af?heart=true&template=for-the-badge&text=India" alt="ForTheBadge built-with-love">
+  </a>
+</div>
 
-### 🚀 B.Tech CSE | Web Developer | Cybersecurity Enthusiast | Tech Educator
+# Hi, I’m **Suraj Arya** <img src="Hi.gif" width="20">
 
-I build **real-world projects**, learn emerging technologies, and empower students through **digital education**.  
-Focused on **Web Development, AI, OCR, Cybersecurity & Open Source**.  
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
----
+I am currently pursuing a B.Tech in Computer Science and Engineering (CSE) at BEU, Bihar, building on my foundation in Diploma-level CSE studies. I am passionate about technology, web development, graphic design, and event management.
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/officialsurajarya/)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/officialsurajarya/)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/@officialsurajarya)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=flat&logo=google-chrome)](https://officialsurajarya.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-green?style=flat&logo=gmail)](mailto:officialsurajarya@gmail.com)  
+I have experience with programming languages including C, Java, Python, HTML, CSS, and JavaScript, and I enjoy using tools like Adobe Photoshop for creative design. My hobbies include photography, gaming, volleyball, and innovative projects.
 
----
+I have demonstrated leadership and organizational skills by successfully managing events and receiving awards such as the “Electron Award.” Additionally, I have completed NCC training and National Level Physical Training, reflecting my discipline, teamwork, and perseverance.
 
-## 🧑‍💻 About Me
-- 🎓 B.Tech in Computer Science & Engineering (BEU Board)  
-- 🔐 Ethical Hacking & Cybersecurity learner  
-- 🧠 AI, OCR, and Automation enthusiast  
-- 👨‍🏫 Conducted workshops & tech awareness sessions  
-- 🌱 Always **learning, building & sharing knowledge**
+By balancing studies, fitness, and creative pursuits, I continuously seek new challenges and opportunities to grow both personally and professionally.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/officialsurajarya/) [![Instagram](https://img.shields.io/badge/Instagram-FC5C7D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/officialsurajarya/) [![YouTube](https://img.shields.io/badge/YouTube-FF4B2B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@officialsurajarya) [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://officialsurajarya.vercel.app/) [![Email](https://img.shields.io/badge/Email-2BC48A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialsurajarya@gmail.com)
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Skills & Technologies :
 
-### Languages
-![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
-
-### Web Development
-![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap)
-![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
-![Flask](https://img.shields.io/badge/Flask-grey?style=flat&logo=flask)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visualstudiocode)
-![Google Colab](https://img.shields.io/badge/Colab-orange?style=flat&logo=googlecolab)
-
----
-
-## 🚀 Featured Projects
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| Doctor Prescription OCR Reader | Flask + OCR | Extracts medical prescriptions to editable text |
-| Medicine Image Classification | CNN (Deep Learning) | Classifies medicines with high accuracy |
-| Solar Power Quotation Generator | JS + HTML/CSS | Automated GST calculation & quotation system |
-| Arya Pathshala | React + Node | Educational platform for students |
-| Personal Portfolio | HTML/CSS/JS | SEO optimized personal portfolio |
-
-👉 Explore more projects on my [GitHub](https://github.com/officialsurajarya)
-
----
+[![My Skills](https://skillicons.dev/icons?i=windows,kali,powershell,github,git,vscode,idea,sublime,md,c,html,css,js,bootstrap,php,mongodb,mysql,wordpress,py,java,arduino,ps,pr,blender,twitter,linkedin,instagram,ai,gmail,linux)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
+
 ![Suraj Arya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialsurajarya&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=officialsurajarya&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=officialsurajarya&theme=radical)
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=officialsurajarya&theme=radical&margin-w=10)
+<!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=officialsurajarya&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" /> -->
+
+<!-- <picture><img src="https://github-readme-stats.vercel.app/api?username=officialsurajarya&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialsurajarya&langs_count=8&layout=compact&theme=radical&hide_border=true" width=40.5% height=40.5%/></picture> -->
+
+<picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=officialsurajarya&theme=redical&hide_border=true" style="width: 890px;"/></picture>
 
 ---
 
-## ✨ Fun Fact
-> 💡 I combine **technology & creativity** to build projects that make learning easier and life simpler.  
+## 🚀 Featured Projects
+
+| Project                         | Tech Stack          | Description                                     |
+| ------------------------------- | ------------------- | ----------------------------------------------- |
+| Doctor Prescription OCR Reader  | Flask + OCR         | Extracts medical prescriptions to editable text |
+| Medicine Image Classification   | CNN (Deep Learning) | Classifies medicines with high accuracy         |
+| Solar Power Quotation Generator | JS + HTML/CSS       | Automated GST calculation & quotation system    |
+| Arya Pathshala                  | React + Node        | Educational platform for students               |
+| Personal Portfolio              | HTML/CSS/JS         | SEO optimized personal portfolio                |
+
+👉 Explore more projects on my [GitHub](https://github.com/officialsurajarya)
 
 ---
 
-## 👀 Profile Views
+### Pleased to meet you
+
+- 🔭 I’m currently working on <b>Web Development</b>
+- 🌱 I’m currently learning <b>C</b>
+- 👯 I’m looking to collaborate on <b>Projects on Python </b>
+- 🤔 I’m looking for help with <b>Leet Code</b>
+- 💬 Ask me about <b>Anything</b>
+- 😄 Pronouns:<b>He/him</b>
+- ⚡ Fun fact: <b>I ❤️ S</b>
+  <br>
+
+## Find me around the web <img src="Earth.gif" width="24"> :
+
+- Practicing Coding Skills in <a href="https://leetcode.com/u/officialsurajarya/">Leet Code.</a>
+- Personal Website <a href="https://officialsurajarya.vercel.app/">Suraj Arya</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/suraj-arya/">LinkedIn</a> 💼
+- My Social Life <a href="https://www.instagram.com/officialsurajarya">Instagram</a> 💞
+- Telegram <a href="https://t.me/All_Latest_App">Telegram</a> 💞
+
+⭐ _If you like my work, consider giving a star to my repositories!_  
+🔥 _Building • Learning • Teaching • Growing_
+
+_<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! :)</b>_
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=officialsurajarya&label=Profile%20Views&color=blue&style=flat)
-
----
-
-⭐ **If you like my work, please give a star to my repositories!**  
-🔥 *Building • Learning • Teaching • Growing*
