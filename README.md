@@ -26,8 +26,6 @@ By balancing studies, fitness, and creative pursuits, I continuously seek new ch
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=officialsurajarya&theme=radical)
 
----
-
 <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=officialsurajarya&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" /> -->
 
 <!-- <picture><img src="https://github-readme-stats.vercel.app/api?username=officialsurajarya&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialsurajarya&langs_count=8&layout=compact&theme=radical&hide_border=true" width=40.5% height=40.5%/></picture> -->
