@@ -1,12 +1,4 @@
-<div align="center">
-  <a href="https://github.com/officialsurajarya/">
-    <img src="https://madewithlove.now.sh/af?heart=true&template=for-the-badge&text=India" alt="Built with love in India">
-  </a>
-</div>
-
-# Hi, I’m **Suraj Arya** <img src="Hi.gif" width="20">
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
-
+# 👋 Hi, I’m **Suraj Arya**
 ### 💻 Computer Science Engineering Student | Web Developer | Tech Enthusiast  
 📍 Bihar, India
 
@@ -26,14 +18,30 @@ I enjoy learning new technologies, contributing to projects, and continuously im
 
 ## 🛠️ Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=windows,kali,powershell,github,git,vscode,idea,sublime,md,c,html,css,js,bootstrap,php,mongodb,mysql,wordpress,py,java,arduino,ps,pr,blender,ai,linux)](https://skillicons.dev)
+### 👨‍💻 Programming Languages
+![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap)
+![PHP](https://img.shields.io/badge/PHP-indigo?style=flat&logo=php)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 Personal Portfolio Website
-- 🌐 Modern personal portfolio showcasing skills & projects  
+- 🌐 A modern personal portfolio showcasing skills & projects  
 - 🛠 Tech: HTML, CSS, JavaScript  
 - 🔗 Live: https://officialsurajarya.vercel.app/
 
@@ -69,15 +77,12 @@ I enjoy learning new technologies, contributing to projects, and continuously im
 
 ---
 
-## 🌍 Find me around the web <img src="Earth.gif" width="24">
+## 🌍 Connect With Me
 
-- 💡 Practicing coding skills on <a href="https://leetcode.com/u/officialsurajarya/">LeetCode</a>  
-- 🌐 Personal Website: <a href="https://officialsurajarya.vercel.app/">officialsurajarya.vercel.app</a>  
-- 💼 Professional updates on <a href="https://www.linkedin.com/in/suraj-arya/">LinkedIn</a>  
-- 📸 My social life on <a href="https://www.instagram.com/officialsurajarya">Instagram</a>  
-- 📢 Telegram Channel: <a href="https://t.me/All_Latest_App">Telegram</a>  
-
-*<b>I love connecting with different people</b>, so if you want to say <b>hi</b>, I’ll be happy to connect! 😊*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj%20Arya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/suraj-arya/)
+[![Instagram](https://img.shields.io/badge/Instagram-officialsurajarya-pink?style=flat&logo=instagram)](https://www.instagram.com/officialsurajarya)
+[![Email](https://img.shields.io/badge/Gmail-officialsurajarya@gmail.com-red?style=flat&logo=gmail)](mailto:officialsurajarya@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=vercel)](https://officialsurajarya.vercel.app/)
 
 ---
 
@@ -88,3 +93,13 @@ I enjoy learning new technologies, contributing to projects, and continuously im
 </p>
 
 ---
+
+## 🔎 SEO Keywords
+
+Suraj Arya GitHub • Suraj Arya Developer • CSE Student Bihar •  
+Web Developer India • Computer Science Engineering • officialsurajarya
+
+---
+
+⭐ *If you find my work useful, consider giving a star and connecting with me!*  
+🤝 *Always open to collaboration, learning, and new opportunities.*
