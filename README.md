@@ -24,7 +24,7 @@ By balancing studies, fitness, and creative pursuits, I continuously seek new ch
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=officialsurajarya&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=officialsurajarya&theme=dark)](https://git.io/streak-stats)
 
 <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=officialsurajarya&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" /> -->
 
